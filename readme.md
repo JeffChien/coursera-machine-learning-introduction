@@ -22,7 +22,7 @@ or use cpu only [🔗](https://datascience.stackexchange.com/questions/58845/how
 
 ### extremely slow with GPU
 
-Increasing the batch size helps, but the problem is that CPU is still much faster in the same condition, really have no idea what's wrong in thte `tensorflow-metal` package.
+Increasing the batch size helps, but the problem is that CPU is still much faster in the same condition, really have no idea what's wrong in the `tensorflow-metal` package.
 
 issue threads
 
